@@ -20,7 +20,7 @@ I build intelligent systems and scalable software, currently balancing life as a
 ### 🚀 Active Projects
 
 * **[Pigeonbook](https://pigeonbook.co):** An AI-driven accounting and bookkeeping SaaS designed to streamline financial reporting through OCR and automated e-invoicing.
-* **[Zurl](https://github.com/yinchuangsum/zurl):** A private application dedicated to capturing and archiving precious family moments.
+* **[Zurl](https://github.com/yinchuangsum/zurl):** A minimal HTTP client written in Zig, similar to curl. (In Active Development)
 
 ### 🌐 Let’s Connect
 
