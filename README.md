@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yinchuangsum&show_icons=true&locale=en" style="width:100%">
-</div>
-<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?  user=yinchuangsum&sideLabels=0071DD&border=DD2727&stroke=040052&fire=0F228A&currStreakLabel=0071DD&dates=000000&ring=0B00F3" style="width:100%" align="center">
 </div>
 
