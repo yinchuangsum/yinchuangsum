@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?  user=yinchuangsum&sideLabels=0071DD&border=DD2727&stroke=040052&fire=0F228A&currStreakLabel=0071DD&dates=000000&ring=0B00F3" style="width:100%" align="center">
+</div>
+
+![](https://activity-graph.herokuapp.com/graph?username=yinchuangsum&theme=xcode)
 
 # Hi, I'm Yin Chuang 👋
 
@@ -23,8 +28,4 @@ I build intelligent systems and scalable software, currently balancing life as a
 * **Focus:** Scaling startups, AI agents, DevOps, and systems programming.
 
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?  user=yinchuangsum&sideLabels=0071DD&border=DD2727&stroke=040052&fire=0F228A&currStreakLabel=0071DD&dates=000000&ring=0B00F3" style="width:100%" align="center">
-</div>
 
-![](https://activity-graph.herokuapp.com/graph?username=yinchuangsum&theme=xcode)
